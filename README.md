@@ -1,5 +1,7 @@
 # DCActivity
 
+Some change...
+
 An unofficial module used to access Discord's Beta features like YouTube, Poker Night, etc. with your Bot
 
 ![](https://img.shields.io/pypi/pyversions/dcactivity)
